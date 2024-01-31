@@ -1,0 +1,56 @@
+= Welcome to GitHub Copilot for Business Developers
+
+image:https://imagedelivery.net/VKawrzTPdVOU6XYN26Rvmg/0cb7d78c-9d1e-4c98-c6f4-4a12a979f100/public[title="Atmosera Logo"]
+
+Atmosera helps you drive innovation by modernizing your applications and data. We offer Cloud Managed Services to save you money, maximize up-time, and enable you to focus on business strategy rather than managing IT infrastructure. And we skill up your team to enable them to quickly apply the latest technologies in software, cloud, DevOps and data. Atmosera is the partner that enables you to achieve more. A company of experts and a creator of experts. Atmosera: We Know How.
+
+== Schedule
+
+=== Class Times
+
+* Wednesday: 11 am - 2 pm ET
+
+=== Breaks
+
+* Morning: 12:30 pm to 12:45 pm ET
+
+== Outline Summary
+
+* Welcome
+* Copilot Overview
+* Using Copilot in the IDE
+* Using Copilot Chat in the IDE
+* Use Copilot In-Editor Suggestions
+* Copilot Chat Beyond Programming
+** VSCode
+** Terminal
+* Prompts and Suggestions
+* X-Shot Prompting
+* Refactoring Code with Copilot
+* Fix Source Code Problems
+* Questions and Answers
+* Conclusion
+
+== Courseware
+
+* link:GitHubCopilotDev_AtmoseraOutline.pdf[Course Outline]
+* link:GitHubCopilotDev_GitHubSlides.pdf[Course Slides]
+* link:https://github-copilot-for-programmers.t4p.dev[Course Content]
+* link:GitHubCopilotDev_Courseware.pdf[Course Content PDF]
+
+== License
+
+We provide the content in this repository for the class participants under the following link:./LICENSE[license]. GitHub provides the course slide deck and is not for redistribution. Atmosera provides the course outline and is not for redistribution. Cloud Contraptions LLC and its subsidiaries offer the remaining course content, which is not for redistribution.
+
+++++
+<br><br>
+Course content and teaching is provided by:
+<br><br>
+++++
+
+image:https://imagedelivery.net/VKawrzTPdVOU6XYN26Rvmg/99139afa-bed7-44aa-e8c0-6d3af356c600/h=50,sharpen=1[link="http://www.github.com",title="GitHub Logo"]
+
+image:https://imagedelivery.net/VKawrzTPdVOU6XYN26Rvmg/aff3f165-00ec-4130-83d3-7ff4744f7d00/h=50,sharpen=1[link="https://www.cloudcontraptions.com",title="Cloud Contraptions Logo"]
+
+image:https://imagedelivery.net/VKawrzTPdVOU6XYN26Rvmg/f68108cf-87fb-405c-3c7b-f941409cb200/h=50,sharpen=1[link="https://www.training4programmers.com",title="Training 4 Programmers Logo"]
+
