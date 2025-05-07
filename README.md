@@ -4,8 +4,8 @@
 
 ## Schedule
 
-- 1.5-hour session
-- 10 mins break about half-way through
+- 2-3 hour session
+- 15 mins break about half-way through
 
 ## Outline
 
