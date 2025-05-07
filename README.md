@@ -19,7 +19,7 @@
 ## Courseware
 
 * [Course Slides](GitHubCopilotDev_GitHubSlides.pdf)
-* [Course Content](https://www.t4p-classes.com/github-copilot-for-programmers/)
+* [Course Content](https://www.training-courseware.com/github-copilot-for-programmers/)
     - Username/Password will be distributed in class
 
 ## License
