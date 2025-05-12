@@ -4,9 +4,9 @@
 
 ## Schedule
 
-- 3-hour session
-- 15 mins break about half-way through
-- 30 mins of Q&A at the end
+- 2-hour session
+- 10 mins break about half-way through
+- 20 mins of Q&A at the end
 
 ## Outline
 
